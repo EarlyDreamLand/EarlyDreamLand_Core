@@ -4,9 +4,7 @@
 
 ## 服务器地址
 
-- mc.11na.cn:25565（IPv4/备用）
-
-- ipv6.mc.11na.cn:25565（IPv6/推荐）
+- mc.11na.cn:25565
 
 本服使用第三方登录进行游玩，需提前在初梦大陆皮肤站注册账号：skin.11na.cn。欢迎加入我们QQ交流群：https://qm.qq.com/q/wB2vhPcUNi
 
@@ -24,7 +22,7 @@
 
 PCL2启动器怎么加入服务器？
 
-> 首先下载并选中1.21.5的游戏版本，点击版本设置-设置-服务器，登录方式选择第三方登录（Authlib Injector 或 LittleSkin），认证服务器：https://skin.11na.cn/api/yggdrasil 注册链接：https://skin.11na.cn/auth/register 服务器名称（可选）：Early Dream Land。请不要点击 !!!设置为 LittleSkin!!!
+> 首先下载并选中1.21.8的游戏版本，点击版本设置-设置-服务器，登录方式选择第三方登录（Authlib Injector 或 LittleSkin），认证服务器：https://skin.11na.cn/api/yggdrasil 注册链接：https://skin.11na.cn/auth/register 服务器名称（可选）：Early Dream Land。请不要点击 !!!设置为 LittleSkin!!!
 
 ## 🎮 玩法特色
 
