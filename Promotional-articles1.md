@@ -10,17 +10,17 @@
 
 ### 太麻烦了？？试试初梦大陆一键启动客户端：
 
-下载渠道1：群文件（https://qm.qq.com/q/wB2vhPcUNi）
+- 下载渠道1：群文件（https://qm.qq.com/q/wB2vhPcUNi）
 
-下载渠道2：腾讯微云（https://share.weiyun.com/mQiVaFp4）
+- 下载渠道2：腾讯微云（https://share.weiyun.com/mQiVaFp4）
 
-下载渠道3：妖纳云盘（https://pan.11na.cn/s/6nlCb）
+- 下载渠道3：妖纳云盘（https://pan.11na.cn/s/6nlCb）
 
-下载渠道4：百度网盘（https://pan.baidu.com/s/1oi2jh6DqDYBvXkHixhH2NA?pwd=966f）
+- 下载渠道4：百度网盘（https://pan.baidu.com/s/1oi2jh6DqDYBvXkHixhH2NA?pwd=966f）
 
-下载渠道5：123云盘（https://www.123865.com/s/SvucTd-7MLQA）
+- 下载渠道5：123云盘（https://www.123865.com/s/SvucTd-7MLQA）
 
-PCL2启动器怎么加入服务器？
+### PCL2启动器怎么加入服务器？
 
 > 首先下载并选中1.21.8的游戏版本，点击版本设置-设置-服务器，登录方式选择第三方登录（Authlib Injector 或 LittleSkin），认证服务器：https://skin.11na.cn/api/yggdrasil 注册链接：https://skin.11na.cn/auth/register 服务器名称（可选）：Early Dream Land。请不要点击 !!!设置为 LittleSkin!!!
 
